@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "snowpack": "^3.3.7"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
